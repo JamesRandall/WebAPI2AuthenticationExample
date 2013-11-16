@@ -1,4 +1,6 @@
 WebAPI2AuthenticationExample
 ============================
 
-Demonstrates how to authenticate using OAuth with Web API 2 and the built in OWIN based OAuth authentication server. The example client is an iOS application written using Xamarin but the C# code will work on any .Net platform.
+This is companion code for my [blog post](http://www.azurefromthetrenches.com/?p=471) showing how to authenticate from a client application against Web API2 using OAuth and the OWIN authentication server.
+
+The example client is an iOS application written using Xamarin but the C# code will work on any .Net platform.

@@ -1,0 +1,6 @@
+C:\wip\WebAPI2AuthenticationExample\WebAPI2AuthenticationExample.iOS\bin\iPhoneSimulator\Debug\WebAPI2AuthenticationExampleiOS.exe
+C:\wip\WebAPI2AuthenticationExample\WebAPI2AuthenticationExample.iOS\bin\iPhoneSimulator\Debug\WebAPI2AuthenticationExampleiOS.pdb
+C:\wip\WebAPI2AuthenticationExample\WebAPI2AuthenticationExample.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\wip\WebAPI2AuthenticationExample\WebAPI2AuthenticationExample.iOS\obj\iPhoneSimulator\Debug\WebAPI2AuthenticationExample.iOS.csprojResolveAssemblyReference.cache
+C:\wip\WebAPI2AuthenticationExample\WebAPI2AuthenticationExample.iOS\obj\iPhoneSimulator\Debug\WebAPI2AuthenticationExampleiOS.exe
+C:\wip\WebAPI2AuthenticationExample\WebAPI2AuthenticationExample.iOS\obj\iPhoneSimulator\Debug\WebAPI2AuthenticationExampleiOS.pdb
